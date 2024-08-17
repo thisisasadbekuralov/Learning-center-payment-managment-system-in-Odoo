@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_course_course,access_course_course,model_course_course,,1,1,1,1
+access_course_group,access_course_group,model_course_group,,1,1,1,1
+access_course_teacher,access_course_teacher,model_course_teacher,,1,1,1,1
+access_student_student,access_student_student,model_student_student,,1,1,1,1
+access_payment_payment,access_payment_payment,model_payment_payment,,1,1,1,1
+access_teacher_payment,access_teacher_payment,model_teacher_payment,,1,1,1,1

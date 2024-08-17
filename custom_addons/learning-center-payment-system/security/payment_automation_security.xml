@@ -1,0 +1,10 @@
+<odoo>
+    <data noupdate="1">
+        <record id="model_group_admin" model="res.groups">
+            <field name="name">Admin</field>
+        </record>
+        <record id="model_group_administrator" model="res.groups">
+            <field name="name">Administrator</field>
+        </record>
+    </data>
+</odoo>
